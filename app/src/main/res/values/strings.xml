@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMoviesStage1</string>
+    <string name="preferenceSortMethodKey">SORT_METHOD</string>
+
+    <string name="pref_sort_popularity_key">Popularity</string>
+    <string name="pref_sort_top_rated_key">Top Rated</string>
+
+    <string name="movieSortPopularity">popularity</string>
+    <string name="movieSortTopRated">top_rated</string>
+    <string name="movieParcel">PARCEL_MOVIE</string>
+
+</resources>
